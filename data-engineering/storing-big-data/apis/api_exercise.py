@@ -21,7 +21,7 @@ import urllib.request # <-- Used to call the AccuWeather API.
 
 # =============================================================
 # Fill in your details required to run the script 
-API_KEY = "" # <-- Obtained from your AccuWeather App
+API_KEY = "zpka_19e486a9facd462cbd167af2d4dd10cb_d7e507ef" # <-- Obtained from your AccuWeather App
 LOCATION_ID = "306633" # <-- Obtained from the AccuWeather website
 # =============================================================
 
